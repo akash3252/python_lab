@@ -1,0 +1,4 @@
+def area_cuboid(l,b,h):
+    return 2*(l*b+b*h+1*h)
+def perimeter_cuboid(l,b,h):
+    return 4*(l+b+h)
